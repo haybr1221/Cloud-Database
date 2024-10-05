@@ -33,8 +33,8 @@ To recreate the development environment, you need the following software and/or 
 I found these websites useful in developing this software:
 
 * [Firestore Tutorial](https://firebase.google.com/docs/firestore)
-* [An Introduction to Cloud Databases] (https://www.oreilly.com/library/view/an-introduction-to/9781492044857/ch01.html)
-* [Overview of Cloud Databases] (https://www.mongodb.com/resources/basics/databases/cloud-databases)
+* [An Introduction to Cloud Databases](https://www.oreilly.com/library/view/an-introduction-to/9781492044857/ch01.html)
+* [Overview of Cloud Databases](https://www.mongodb.com/resources/basics/databases/cloud-databases)
 
 ## Future Work
 
